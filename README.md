@@ -29,7 +29,7 @@ I am an **Industrial Engineer** with over 7 years of experience in the medical i
 
 ## 📊 Transition into Data Analytics
 I am currently learning and applying:
-- **Languages:** SQL, Excel, and Python (in process)  
+- **Languages:** Snowflake, SQL, Excel, and Python (in process)  
 - **Visualization:** Power BI, Tableau  
 - **Basic Machine Learning**  
 - **Data management and quality metrics**  
@@ -50,7 +50,7 @@ My goal is to create projects that connect **compliance + data analytics**, show
   ---
 
 ## 👨‍💻 Softwares
--	Data Analytics: SQL, Tableau, Power BI.  
+-	Data Analytics: Snowflake, SQL, Tableau, Power BI.  
 -	Graphic Design: Adobe Illustrator, Adobe Photoshop, Adobe InDesign.
 -	Microsoft Office (Word, Excel, Project, PowerPoint, Access, Outlook).
 -	Minitab software domain.
