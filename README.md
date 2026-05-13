@@ -29,7 +29,7 @@ I am an **Industrial Engineer** with over 7 years of experience in the medical i
 
 ## 📊 Transition into Data Analytics
 I am currently learning and applying:
-- **Languages:** Snowflake, SQL, Excel, and Python (in process)  
+- **Languages:** Snowflake, SQL (MySQL and Microsoft SQL Server), Excel, and Python (in process)  
 - **Visualization:** Power BI, Tableau  
 - **Basic Machine Learning**  
 - **Data management and quality metrics**  
@@ -40,8 +40,8 @@ My goal is to create projects that connect **compliance + data analytics**, show
 
 ## 📚 Education
 - INSTITUTO TECNOLÓGICO DE COSTA RICA: Bachelor of Engineering in Industrial Production
-- Data Analysis | SQL, Tableau, Power BI & Excel | Graeme Gordon
-- Graphic Design Masterclass | Lindsay Marsh
+- Data Analysis | SQL, Tableau, Power BI & Excel | 
+- Graphic Design Masterclass |
 - Internal Auditor for Medical Devices by Cardinal Health Internal Program
 - Lean Six Sigma by Cardinal Health Internal Program
 - Applied statistics program supported by Minitab
@@ -50,7 +50,7 @@ My goal is to create projects that connect **compliance + data analytics**, show
   ---
 
 ## 👨‍💻 Softwares
--	Data Analytics: Snowflake, SQL, Tableau, Power BI.  
+-	Data Analytics: Snowflake, SQL (MySQL and Microsoft SQL Server), Tableau, Power BI.  
 -	Graphic Design: Adobe Illustrator, Adobe Photoshop, Adobe InDesign.
 -	Microsoft Office (Word, Excel, Project, PowerPoint, Access, Outlook).
 -	Minitab software domain.
