@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Oscar
 
-I am an **Industrial Engineer** with over 7 years of experience in the medical industry, specializing in **quality engineering** and **supplier quality management**. Currently, I am transitioning into **data analytics**, aiming to combine my background in regulated environments with modern **data science tools** to drive social and business impact.
+I am an **Industrial Engineer** with over 7 years of experience in the medical industry, specializing in **quality engineering** and **supplier quality management**. Currently, I am also learning
+** Data analytics**, aiming to combine my background in regulated environments with modern **data science tools** to drive social and business impact.
 
 ---
 
