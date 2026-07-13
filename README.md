@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Oscar
 
-I am an Industrial Engineer with over 7 years of experience in the medical device industry, working in FDA and ISO 13485 regulated environments with a strong background in Quality Engineering, Supplier Quality Management, process improvement, and regulatory compliance.
+I am an Industrial Engineer with over 7 years of experience in the medical device industry, working in FDA and ISO 13485 regulated environments with a strong background in Quality Engineering, Supplier Quality engineering, process improvement, and regulatory compliance.
 
 I am passionate about expanding my expertise into Data Analytics, Business Intelligence, and Finance, combining analytical thinking with operational excellence to transform data into meaningful business insights and better decision-making.
 
@@ -81,7 +81,7 @@ My goal is to create projects that connect **compliance + data analytics + finan
 ## 🌱 Interests
 - **Data analyst/science for social impact and financial growth**  
 - **Graphic design and digital illustration** as creative expression.  
-- **Personal projects** such as building my own house, reflecting my pursuit of stability and growth.  
+- **Personal projects** such as putting my skills and qualifications to the service of the people and industry, reflecting my pursuit of stability and growth.  
 
 ---
 
